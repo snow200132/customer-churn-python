@@ -1,6 +1,6 @@
 # E-Commerce Logistics Customer Churn & Retention Segmentation
 
-**Executive Summary**
+### **Executive Summary**
 Applied exploratory data analysis and RFM (Recency, Frequency, Monetary) segmentation in Python across a master dataset of **1,000,000+ transaction rows** (UCI Online Retail), isolating a cohort of **early-lifecycle logistics clients** to identify attrition patterns and retention drivers.
 
 ---
