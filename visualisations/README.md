@@ -5,4 +5,5 @@
 * **Customer RFM Mix:** Segmented customer base into **Champions (14%)**, **At-Risk (28%)**, and **Lost (32%)**.
 * **Revenue Recovery Potential:** Target re-engagement campaigns focus on a **22% potential renewal lift** in annual service agreements.
 
-**
+<img width="1600" height="600" alt="image" src="https://github.com/user-attachments/assets/7d214dfa-7b63-4514-9990-7c19d4b973ad" />
+
