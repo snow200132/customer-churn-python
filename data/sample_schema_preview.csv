@@ -1,0 +1,8 @@
+customer_id,order_id,order_sequence,onboarding_delay_days,recency_days,frequency_orders,monetary_val_ngn,churn_status
+CUST-501,ORD-101,1,5,12,1,150000,Churned
+CUST-502,ORD-102,1,1,5,14,2100000,Active
+CUST-503,ORD-103,1,6,45,2,300000,Churned
+CUST-504,ORD-104,1,0,8,22,3500000,Active
+CUST-505,ORD-105,2,4,38,2,280000,Churned
+CUST-506,ORD-106,1,0,3,18,2900000,Active
+CUST-507,ORD-107,3,1,7,11,1800000,Active
